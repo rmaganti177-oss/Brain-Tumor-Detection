@@ -51,6 +51,8 @@ The project uses the Brain Tumor MRI Dataset available on Kaggle.
 
 The dataset contains labeled brain MRI images belonging to four categories: Glioma, Meningioma, No Tumor, and Pituitary.
 
+Download and extract the dataset into `Implementation/dataset/` so it contains the `Training/` and `Testing/` folders expected by the notebook.
+
 Please review the dataset's license and terms before redistributing its images.
 
 ## Dataset Preprocessing
@@ -132,3 +134,5 @@ This project is intended for educational and research purposes only. It is not a
 ## Repository
 
 GitHub: [rmaganti177-oss/Brain-Tumor-Detection](https://github.com/rmaganti177-oss/Brain-Tumor-Detection)
+
+Related project: [AI-Based Disease Diagnostic](https://github.com/rmaganti177-oss/AI-Based-Disease-Diagnostic)
